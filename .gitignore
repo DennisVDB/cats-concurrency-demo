@@ -1,0 +1,7 @@
+*.log
+.DS_Store
+.idea/
+target/
+*.tgz
+*.sc
+project/metals.sbt
